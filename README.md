@@ -1,7 +1,13 @@
 # Lazy100
 ![Logo](/Images/Logo.png)
 
+[![GitHub license](https://img.shields.io/github/license/bksahu/Lazy100.svg)](https://github.com/bksahu/Lazy100/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/bksahu/Lazy100.svg)](https://github.com/bksahu/Lazy100/issues)
+[![Awesomeness](https://img.shields.io/badge/awesomeness-maximum-red.svg)](https://github.com/bksahu/Lazy100/)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/bksahu/Lazy100.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fbksahu%2FLazy100)
+
 A CLI to automate **#100DaysOfX Challenges** that will `commit` your work to your github account and also `tweet` your progress to your twitter account. <br>
+
 
 
 There are two mode of it's operation:
