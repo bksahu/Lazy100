@@ -51,7 +51,7 @@ This repo uses [tweepy](https://github.com/tweepy/tweepy) to interact with Twitt
 See the [tweepy tutorial](http://docs.tweepy.org/en/v3.5.0/auth_tutorial.html) for more information, if needed.
 
 ## Insert your credentials
-Open `Lazy100.py` and insert your credentials:
+Open `Lazy100.py`, search for following lines and insert your credentials:
 
 ```python
 ##############################################################
